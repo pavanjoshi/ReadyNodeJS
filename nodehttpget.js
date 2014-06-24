@@ -2,7 +2,7 @@
 var url = 'your url to get json response';
 var options = {
   host: "proxy",
-  port: 8080,
+  port: port, //enter port e.g. 8080
   path: url
 };
 
